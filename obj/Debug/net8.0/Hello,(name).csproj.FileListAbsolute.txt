@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Hello,(name)\bin\Debug\net8.0\Hello,(name).exe
+C:\Users\hp\source\repos\Hello,(name)\bin\Debug\net8.0\Hello,(name).deps.json
+C:\Users\hp\source\repos\Hello,(name)\bin\Debug\net8.0\Hello,(name).runtimeconfig.json
+C:\Users\hp\source\repos\Hello,(name)\bin\Debug\net8.0\Hello,(name).dll
+C:\Users\hp\source\repos\Hello,(name)\bin\Debug\net8.0\Hello,(name).pdb
+C:\Users\hp\source\repos\Hello,(name)\obj\Debug\net8.0\Hello,(name).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Hello,(name)\obj\Debug\net8.0\Hello,(name).AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Hello,(name)\obj\Debug\net8.0\Hello,(name).AssemblyInfo.cs
+C:\Users\hp\source\repos\Hello,(name)\obj\Debug\net8.0\Hello,(name).csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Hello,(name)\obj\Debug\net8.0\Hello,(name).dll
+C:\Users\hp\source\repos\Hello,(name)\obj\Debug\net8.0\refint\Hello,(name).dll
+C:\Users\hp\source\repos\Hello,(name)\obj\Debug\net8.0\Hello,(name).pdb
+C:\Users\hp\source\repos\Hello,(name)\obj\Debug\net8.0\Hello,(name).genruntimeconfig.cache
+C:\Users\hp\source\repos\Hello,(name)\obj\Debug\net8.0\ref\Hello,(name).dll
